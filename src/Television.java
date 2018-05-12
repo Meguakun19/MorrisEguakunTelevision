@@ -1,3 +1,5 @@
+//Morris Eguakun
+//Java Programming Homework
 import java.util.Scanner;
 
 public class Television {
