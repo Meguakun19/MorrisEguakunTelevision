@@ -1,8 +1,7 @@
+// Morris Eguakun Java Programming Homework
+//09-28-2017
 
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by Fernflower decompiler)
-//
+
 
 import java.io.PrintStream;
 import java.util.Objects;
